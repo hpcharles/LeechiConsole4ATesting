@@ -9,4 +9,9 @@
 * Vector extension 0.7.1 : https://github.com/riscv/riscv-v-spec/releases/tag/0.7.1
 # Code examples
 From appendix A of the vector extension :
-* [A.1-VectorAddExample.s](A.1-VectorAddExample.s)
+* [A.1-VectorAdd-Example.s](A.1-VectorAdd-Example.s)
+* [A.2-MixedWidthMaskAndCompute.s](A.2-MixedWidthMaskAndCompute.s)
+* [A.3-MemCpy-Example.s](A.3-MemCpy-Example.s)
+* [A.4-Conditionnal-Example.s](A.4-Conditionnal-Example.s)
+* [A.5-Saxpy-Example.s](A.5-Saxpy-Example.s)
+* [A.6-SGEMM-Example.s](A.6-SGEMM-Example.s)
