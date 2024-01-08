@@ -9,4 +9,4 @@
 * Vector extension 0.7.1 : https://github.com/riscv/riscv-v-spec/releases/tag/0.7.1
 # Code examples
 From appendix A of the vector extension :
-* (A.1-VectorAddExample.s)
+* [A.1-VectorAddExample.s](A.1-VectorAddExample.s)
