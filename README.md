@@ -7,3 +7,6 @@
 * On the mother board : https://dl.sipeed.com/shareURL/LICHEE/licheepi4a
 ## RISCV documentations
 * Vector extension 0.7.1 : https://github.com/riscv/riscv-v-spec/releases/tag/0.7.1
+# Code examples
+From appendix A of the vector extension :
+* [A.1-VectorAddExample.s]
